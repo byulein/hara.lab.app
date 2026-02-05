@@ -103,7 +103,7 @@ This Privacy Policy may be updated. Significant changes will be communicated thr
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-- Email: [your-email@example.com]
+- Email: [hara.lab.app@gmail.com](mailto:hara.lab.app@gmail.com)
 
 ---
 

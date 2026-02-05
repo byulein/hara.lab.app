@@ -103,7 +103,7 @@ IP 위치 조회 기능 사용 시 ipwho.is 서비스에 조회하려는 IP 주�
 
 개인정보처리방침에 관한 문의사항이 있으시면 아래로 연락해 주세요:
 
-- 이메일: [your-email@example.com]
+- 이메일: [hara.lab.app@gmail.com](mailto:hara.lab.app@gmail.com)
 
 ---
 
