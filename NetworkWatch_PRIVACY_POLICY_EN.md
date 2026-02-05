@@ -41,7 +41,7 @@ On iOS 14.5 and later, the App requests your consent before tracking. You can de
 
 #### IP Geolocation Service
 
-When using the IP geolocation feature, the IP address you enter is sent to ip-api.com service. This is the IP address you input, not your personal IP address.
+When using the IP geolocation feature, the IP address you enter is sent to ipwho.is service. This is the IP address you input, not your personal IP address.
 
 ---
 
